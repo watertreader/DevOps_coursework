@@ -8,25 +8,10 @@ on:
   pull_request:
     branches: [ main ]
   create:
-    branches: [ main ]
   delete:
-    branches: [ main ]
 
 jobs:
-
-  notifyWhatsApp:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@master
-      - name: Notification WhatsApp
-        id: whatsapp-notify
-        env:
-          account_sid: ${{ secrets.twilio_account_sid }}
-          auth_token: ${{ secrets.twilio_auth_token }}
-          to_whatsapp_no: ${{ secrets.twilio_to_whatsapp_no }}
-          message: "CI 👉🏻 Your message here..."
-        uses: khaled-ibtikar/whatsapp-push-notify-action@master
-        
+      
   notifyTelegram:
     runs-on: ubuntu-latest
     steps:
@@ -36,5 +21,5 @@ jobs:
         to: ${{ secrets.TELEGRAM_TO }}
         token: ${{ secrets.TELEGRAM_TOKEN }}
         message: |
-          The ${{ github.event_name }} event triggered final step.
-          echo This event is a pull request that had an assignee removed.
+          The ${{ github.event_name }} event triggered this step.
+          echo Please note the changes
