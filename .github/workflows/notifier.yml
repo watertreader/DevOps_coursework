@@ -9,6 +9,8 @@ on:
     branches: [ main ]
   create:
     branches: [ main ]
+  delete:
+    branches: [ main ]
 
 jobs:
 
