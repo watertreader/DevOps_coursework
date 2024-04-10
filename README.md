@@ -17,6 +17,12 @@ To be completed
 
 ### Requirements
 
+#### Local Developement
+<ul>
+  <li> Rust Development Environment </li>
+</ul>
+
+#### Remote Developement
 <ul>
   <li>  Docker </li>
 </ul>
@@ -43,6 +49,16 @@ You can also read up on my DevOps experience in Medium https://medium.com/@water
 
 ## File Descriptions <a name="files"></a>
 
+    READMD.md                    ---- readme file that you see right now
+    Cargo.toml                   ---- Rust configuration and dependency file
+    Dockerfile                   ---- Configure file to build the docker container
+    juggle.png                   ---- image found in readme
+    /src                         ---- source folder
+    ---- main.rs                 ---- rust source file
+    /resource                    ---- resource folder
+    ---- docker_cheatsheet       ---- contain useful docker commands
+    /scripts
+    ---- 
 
 ## Results<a name="results"></a>
 
