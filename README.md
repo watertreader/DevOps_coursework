@@ -31,7 +31,8 @@
 
    #### Remote Developement
    <ul>
-     <li>  Docker </li>
+     <li>  Docker Desktop </li>
+     <li> Consider also using VS Code Remote Container extension </li>
    </ul>
 
 ###  Docker Setup
