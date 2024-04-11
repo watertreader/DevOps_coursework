@@ -5,7 +5,7 @@ use reqwest::Client;
 use serde::Deserialize;
 use std::env;
 use chrono::{DateTime, Utc, Local};
-use geolocation;
+
 
 #[derive(Deserialize)]
 struct WeatherResponse {
