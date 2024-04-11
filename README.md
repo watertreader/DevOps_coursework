@@ -48,7 +48,7 @@ To run the Docker image, execute the following command:
 
 For this project, I am trying to document my journey in dipping into the devops world
 
-You can also read up on my DevOps experience in Medium https://medium.com/@watertreader/dip-into-devops-world-9ad96f8ec774
+You can also read up on my DevOps experience in  <a href="https://medium.com/@watertreader/dip-into-devops-world-9ad96f8ec774">Medium</a>
 
 
 ## File Descriptions <a name="files"></a>
