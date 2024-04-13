@@ -1,4 +1,4 @@
-![image](https://github.com/watertreader/DevOps_coursework/assets/38108091/5fcca7e0-7470-4b3d-8fc4-fccdb0307e5c)
+
   <p align="center"><img src="juggle.png" /></p>
   <p align="center" style="color:blue;font-weight: bold;font-size:95px;">DevOps_tutorial</p> 
 
