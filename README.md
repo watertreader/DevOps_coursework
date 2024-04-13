@@ -24,11 +24,11 @@
 ### Requirements
 
    #### Local Developement
-    <ul>
-      <li> Rust Development Environment </li>
-      <li> Suitable IDE (VS Code)  </li>
-    </ul>
-
+   <ul>
+     <li>  Rust Development Environment </li>
+     <li> Suitable IDE (VS Code) </li>
+   </ul>
+   
    #### Remote Developement
    <ul>
      <li>  Docker Desktop </li>
