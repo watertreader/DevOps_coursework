@@ -85,7 +85,7 @@ The result
 For remote development (docker)
 <ol>
   <li> You can execute your container build at </li>
-  <li> After building the docker image, you can run it by docker run -p 3000:4040 -env_file=<your file key> devops_rust </li>
+  <li> After building the docker image, you can run it by docker run -p 3000:4040 -env_file={your file key} devops_rust </li>
    <li> Launch the browser at the url http://127.0.0.1:3000 </li>
   <li> You can view the current time and temperature of Singapore </li>
   </ol>
