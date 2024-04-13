@@ -91,6 +91,8 @@ For remote development (docker)
   </ol>
 Alternatively, you can run the script remote.sh within the script folder
 
+ <p align="center"><img src="resource/Screenshot 2024-04-13 110537" /></p>
+
 ## Acknowledgements <a name="acknowedgement"></a>
 
 Thanks to Uli Hiztel, my instructor and NUS Advanced Computing for Executive Center 
