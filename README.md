@@ -89,7 +89,7 @@ Alternatively, you can run the script remote.sh within the script folder
 
 ## Acknowledgements <a name="acknowedgement"></a>
 
-Thanks to Uli Hiztel, my instructor and NUS Advanced Computing for Executive Center and of course, my company, ST Engineering Defence Aviation Services for sponsoring the course
+Thanks to Uli Hiztel, my instructor and NUS Advanced Computing for Executive Center 
 
 It has been a "siong" journey!
 
